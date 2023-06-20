@@ -1,0 +1,38 @@
+*{
+    font-family: sans-serif;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all .2s ease-out;
+}
+
+.footer .box-container .box h3{
+    font-size: 1.5rem;
+    padding: 1rem 0;
+}
+
+ul li a{
+    display: block;
+    font-size: 1rem;
+    padding: 1rem 0;
+	color: black;
+}
+
+.footer .box-container .box a i{
+    padding-right: .5rem;
+}
+
+ul li a:hover i{
+    padding-right:1rem;
+    color: #198754;
+}
+
+ul li a:hover{
+    color: #198754;
+}
+
+footer{
+    padding-bottom: 15px;
+    text-align: center;
+    color: #000;
+}
